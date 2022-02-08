@@ -1,6 +1,6 @@
-" modefiles.vim - Avoid gunking up your files with modelines
+" vim-modefiles - Avoid gunking up your files with modelines
 " Maintainer:   Jer Wilson <superjer@superjer.com>
-" URL:          https://github.com/superjer/modefiles
+" URL:          https://github.com/superjer/vim-modefiles
 " Version:      0.8
 "
 " License:
@@ -9,7 +9,7 @@
 "
 " Installation:
 " Put this file in your ~/.vim/plugin dir or, if you use a bundler, clone
-" https://github.com/superjer/modefiles to your bundles dir.
+" https://github.com/superjer/vim-modefiles to your bundles dir.
 "
 " Description:
 " Modefiles are like modelines (see :h modeline), but without putting crap in
